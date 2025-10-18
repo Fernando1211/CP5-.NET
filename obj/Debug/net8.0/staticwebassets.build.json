@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "s1/IbSN5U8+CeOh1r0ZkmE2EcJ2uewDDdgpraRALgHk=",
+  "Source": "SafeScribe.JwtApi",
+  "BasePath": "_content/SafeScribe.JwtApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
