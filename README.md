@@ -20,5 +20,9 @@ Projeto gerado para o CP5: Autenticação e Autorização com JWT (ASP.NET Core 
 - Dependências: Microsoft.AspNetCore.Authentication.JwtBearer, BCrypt.Net-Next, Microsoft.EntityFrameworkCore.InMemory
 
 
-##Integrantes##
+**Integrantes**
+
+Fernando Henrique Vilela Aguiar - rm557525
+Gabrielly Campo Macedo - rm558962
+
 
